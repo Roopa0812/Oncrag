@@ -25,7 +25,7 @@ All three variants were evaluated on an identical, held-out set of **200 oncolog
 | Metric | Baseline (No-RAG) | No-LAQA (RAG) | **LAQA (Full)** |
 |---|---|---|---|
 | Faithfulness (0–1) | 0.635 | 0.717 | **0.924** |
-| Hallucination Rate | 19.0% | **47.0%** ⚠️ | **6.5%** |
+| Hallucination Rate | 47.0% | **19.0%**  | **6.5%** |
 | BERTScore F1 | 0.123 | 0.619 | **0.858** |
 | Precision@5 | — | 0.789 | **0.842** |
 | S.C.O.P.E.E Weighted (/5) | 4.25 | 3.99 | **4.74** |
