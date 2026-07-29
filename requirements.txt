@@ -1,0 +1,17 @@
+transformers
+accelerate
+bitsandbytes
+sentence-transformers
+faiss-cpu
+rank-bm25
+torch
+langchain
+langchain-community
+pandas
+numpy
+nltk
+rouge-score
+bert-score
+scipy
+matplotlib
+tqdm
